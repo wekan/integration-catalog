@@ -83,7 +83,7 @@ main_icon: ''
 metadata:
   created_by: Ingo Steuwer
   creation_date: '2026-04-17'
-  last_update_date: '2026-07-21'
+  last_update_date: '2026-10-12'
 organizational_specifications:
   support_contact_id: 'wekan'
   support_status: ''
@@ -102,4 +102,4 @@ technical_specifications:
   artifacts:
   - packaged_integration
   source_license: ''
-version: 12.65
+version: 12.68
